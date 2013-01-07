@@ -13,6 +13,7 @@ int main() {
 
  show_main();
  show_test_v1();
+ void show_test_v1_from_windows();
 
  return 0; 
 }
