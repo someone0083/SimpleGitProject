@@ -8,7 +8,7 @@ void show_main(void){
 
 int main() { 
 
- cout << "Hello! Git\n"; 
+ //cout << "Hello! Git\n"; 
 
  show_main();
 
